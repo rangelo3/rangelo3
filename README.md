@@ -4,6 +4,6 @@
   
 <hr color="blue">
 
-  <h3 align="center";color="blue">SOCIAL MEDIA ACCOUNTS</h3>
+  <h3 align="center";color="blue">SOCIAL MEDIA ACCOUNT</h3>
   
 </body>
