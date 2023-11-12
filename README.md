@@ -1,4 +1,4 @@
-### ABOUT MYSELF
+###
 <h1 align="center">Hi 👋, I'm Ram Angelo Vivo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
