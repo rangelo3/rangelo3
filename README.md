@@ -1,2 +1,1 @@
-### Hi there 👋
-<h1> I am Ram Angelo Vivo</h1>
+< p style="font-family:JUST Sans">ABOUT MYSELF</p>
